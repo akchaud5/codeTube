@@ -4,7 +4,8 @@
 Introducing codeTube, the ultimate video streaming platform tailored exclusively for coding enthusiasts. Developed with React.js, codeTube goes beyond the conventional video-streaming experience to provide a distraction-free haven for developers eager to enhance their coding skills.
 
 #### Live Link
-https://genuine-caramel-b1ed1e.netlify.app/
+https://codetubeservices.vercel.app/
+
 
 
 ## Tech Stack
